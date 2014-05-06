@@ -23,7 +23,7 @@ p { color: white; font-family: 'Dosis'}
 
 #agenda { background-color: white; width: 100%; height: 100%; padding-top: 7em; padding-left: 1em; }
 #agenda h2 { font-size: 4em; line-height: 1; font-weight: bold; text-rendering: optimizelegibility; text-align: center; color: #B68611; font-family: 'Dosis'}
-#agenda h3 { font-size: 2em; line-height: 1; font-weight: bold; text-rendering: optimizelegibility; text-align: center; color: #2E3B0B; font-family: 'Dosis'}
+#agenda h3 { font-size: 2em; line-height: 1; font-weight: bold; text-rendering: optimizelegibility; text-align: center; color: #DBA901; font-family: 'Dosis'}
 #agenda p { color: black; }
 
 #middle_conferencistas{ background-image: url(../img/2.jpg); -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
@@ -44,10 +44,12 @@ p { color: white; font-family: 'Dosis'}
 
 #middle_eventos{ background-image: url(../img/3.jpg); -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
 
-#eventos { background-color: white; width: 100%; height: 100%; padding-top: 7em; padding-left: 1em; }
+#eventos { background-color: white; width: 100%; height: 100%; padding-top: em; padding-left: 1em; }
 #eventos h2 { font-size: 4em; line-height: 1; font-weight: bold; text-rendering: optimizelegibility; text-align:center; color: #DBA901; font-family: 'Dosis' }
 #eventos p span { line-height: 1; font-weight: normal; text-rendering: optimizelegibility; text-align: center; font-size: 30px; color:#DBA901; }
 #eventos p  {color:#38610B; font-size: 20px;}
+#eventos h1 { line-height: 1; font-weight: normal; text-rendering: optimizelegibility; text-align: center; font-size: 30px; color:#DBA901; }
+
 
 #middle_contacto{ background-image: url(../img/4.jpg); -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
 
